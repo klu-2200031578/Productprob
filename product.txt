@@ -3,13 +3,10 @@ class Main{
 int a =5;
 int b=6;
 int c=7;
-<<<<<<< HEAD
 int e=8;
-int d=a*b*c*e;
-=======
-int d=a*b*c;
->>>>>>> cca8c3ed90001404c18dabd7705270676ef1f3c3
-System.out.print(c);
+int f=4;
+int d=a*b*c*e*f;
+System.out.print(d);
 
   }
 }
